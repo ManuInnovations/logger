@@ -14,3 +14,4 @@ module.exports = function(...messages){
   log_file.write(util.format() + '\n');
   log_stdout.write(util.format() + '\n');
 }
+// https://stackoverflow.com/questions/8393636/node-log-in-a-file-instead-of-the-console
