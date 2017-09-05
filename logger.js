@@ -40,3 +40,5 @@ function makeDirectory(dir){
 module.exports={
   log:log
 }
+
+// https://stackoverflow.com/questions/8393636/node-log-in-a-file-instead-of-the-console
