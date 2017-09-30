@@ -1,13 +1,13 @@
 {
-  "name": "js-script",
+  "name": "logger",
   "version": "1.0.0",
-  "description": "",
+  "description": "logs in a file and in the console",
   "main": "logger.js",
   "dependencies": {},
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Anna-marie-vos @ Manu Innovations",
   "license": "ISC"
 }

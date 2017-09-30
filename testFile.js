@@ -1,2 +1,4 @@
 const file = require('./logger.js')
-file.log('thiis is the test',{"this":["one","two"]});
+
+const obj = {'theOne':["one","two"], 'theTwo':['the third',123]}
+file.log('thiis is the test',obj,['1',1,2,3]);
