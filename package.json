@@ -1,6 +1,6 @@
 {
   "name": "manu-file-log",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "logs in a file and in the console",
   "main": "logger.js",
   "dependencies": {},
