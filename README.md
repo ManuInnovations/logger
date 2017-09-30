@@ -2,6 +2,9 @@
 This is a script to write console logs to a .log file.
 It creates a seperate 'logs' folder and inside you'll find the .log file.
 
+### github
+github repository: https://github.com/ManuInnovations/logger
+
 ## Installation
 To install the package as a dev dependency type the following terminal command:
 ```
