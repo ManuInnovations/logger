@@ -4,10 +4,12 @@ It creates a seperate 'logs' folder and inside you'll find the .log file.
 
 ## Installation
 To install the package as a dev dependency type the following terminal command:
-```npm install manu-file-log --save-dev
+```
+npm install manu-file-log --save-dev
 ```
 Or if you want to install it as a main dependency use:
-``` npm install manu-file-log --save
+```
+ npm install manu-file-log --save
 ```
 ## Usage
 Once installed you can use it in any .js file. Simply require it by adding the following code at the top of the .js file:
