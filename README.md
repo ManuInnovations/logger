@@ -13,11 +13,23 @@ Or if you want to install it as a main dependency use:
 ```
 ## Usage
 Once installed you can use it in any .js file. Simply require it by adding the following code at the top of the .js file:
- `const file = require('manu-file-log')`
+ ```
+ const file = require('manu-file-log')
+ ```
 
 In your code where you want to log something to a file use the following:
-` file.log('this is a test string ', 'another test string')`
+```
+file.log('this is a test string ', 'another test string')
+```
 
 ## Result
-You will find your log in the logs folder in the .log file and the outcome will be:
-`this is a test string another test string`
+You will find your log in the logs folder in the file.log file:
+```
+main directory
+  -->logs
+    --->file.log
+```
+ and the outcome will be:
+```
+this is a test string another test string
+```
