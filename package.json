@@ -1,5 +1,5 @@
 {
-  "name": "logger",
+  "name": "manu-file-log",
   "version": "1.0.0",
   "description": "logs in a file and in the console",
   "main": "logger.js",
